@@ -14,9 +14,6 @@ A complete end‑to‑end ETL pipeline that ingests raw customer support ticket 
 **Goal:**  
 To build a robust, production‑grade data pipeline that turns a messy CSV export from a hypothetical support ticketing system into actionable insights. The project covers every layer of the modern data stack: Python scripting, data cleaning & transformation, database design, SQL querying, and BI reporting.
 
-**Target Role:**  
-Junior Database Engineer / Data Engineer / Data Analyst – particularly for roles in BPOs like Rewardsco.
-
 **Key Outcomes:**  
 - An automated ETL pipeline written in Python.
 - A normalized PostgreSQL database with 3 tables.
