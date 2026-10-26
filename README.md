@@ -1,5 +1,4 @@
-# Customer Support Ticket ETL Pipeline (PostgreSQL + Snowflake + dbt)
-
+# Customer Support Ticket ETL Pipeline
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-green)
 ![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-yellow)
