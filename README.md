@@ -52,7 +52,7 @@ customer-support-etl/
 │     ├── load.py                          # (path → PostgreSQL)
 │     └── main.py                          # Pipeline entry point
 │
-├── sql/                                   # PostgreSQL scripts (classic path)
+├── sql/                                   # PostgreSQL scripts
 │     ├── create_tables.sql
 │     ├── insert_data.sql
 │     └── analysis_queries.sql
@@ -111,7 +111,7 @@ CSV  →  Python Extract  →  Python Transform  →  PostgreSQL (tickets_flat)
 
 ---
 
-## 🐍 Classic ETL Details (PostgreSQL)
+## 🐍 ETL Details (PostgreSQL)
 
 ### Extract
 `extract.py` reads the CSV into a Pandas DataFrame with basic error handling.
