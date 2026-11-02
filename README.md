@@ -256,10 +256,10 @@ Open `dashboard/customer-support-dashboard.pbix` and refresh the connection (Pos
 ## 📸 Screenshots
 
 ### Operations Dashboard
-![Operations Dashboard](screenshots/operations_dashboard.png)
+![Operations Dashboard](dashboards/screenshots/Support_Operations_Dashboard.png)
 
 ### Business Dashboard
-![Business Dashboard](screenshots/business_dashboard.png)
+![Business Dashboard](screenshots/Business_Performance_Dashboard.png)
 
 ---
 
